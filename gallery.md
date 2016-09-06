@@ -18,4 +18,4 @@ image:
 
 ### Israel and Jordan, 2015
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/98579460@N03/albums/72157656848563668" title="2015 Israel"><img src="https://c7.staticflickr.com/6/5643/20390826950_c2fbce739c_z.jpg" width="640" height="427" alt="2015 Israel">
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/98579460@N03/albums/72157656848563668" title="2015 Israel"><img src="https://c8.staticflickr.com/6/5774/20578793895_4c8c5bf654_z.jpg" width="640" height="427" alt="2015 Israel"></a>

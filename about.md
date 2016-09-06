@@ -1,7 +1,7 @@
 ---
 layout: post
 permalink: /about/index.html
-title: Life's Sweet and Sour
+title: Life's Sweet & Sour
 description: 
 tags: [about, theme]
 image:
