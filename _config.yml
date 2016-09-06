@@ -1,0 +1,63 @@
+title:            "Pickled Pleasures"
+tagline:          A beautiful theme.
+description:      Describe your website.
+canonical: http://pickledpleasures.github.io
+
+# Owner/author information
+owner:
+  name:           Janet Wesner
+  avatar:         avatar.png
+  bio:            "Aesthete & Athlete"
+  email:          pickledpleasures@gmail.com
+  twitter:        
+  github:         pickledpleasures
+  instagram:      
+  dribbble:       
+  disqus:         
+  location:       "Chicago, IL"
+
+tools:
+  standards:      "HTML, SCSS, Jekyll"
+  software:       "git"
+
+# Open Graph customization
+opengraph:
+  locale:         en_US
+
+# Links to include in top navigation
+# For external links add external: true
+links:
+  - title: About
+    url: /about
+  - title: Github
+    url: https://github.com/pickledpleasures
+    external: true
+
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone:    America/Chicago
+future:      true
+highlighter: rouge
+markdown:    kramdown
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: false
+
+  coderay:
+    coderay_line_numbers:
+    coderay_line_numbers_start: 1
+    coderay_tab_width: 4
+    coderay_bold_every: 10
+    coderay_css: class
+
+sass:
+    style: :compressed
+
+# https://github.com/mojombo/jekyll/wiki/Permalinks
+permalink:   /:categories/:title
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp"]
