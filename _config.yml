@@ -1,5 +1,5 @@
 title:            "Pickled Pleasures"
-tagline:          A beautiful theme.
+tagline:          "Life's Sweet and Sour"
 description:      Describe your website.
 canonical: http://pickledpleasures.github.io
 
@@ -7,9 +7,9 @@ canonical: http://pickledpleasures.github.io
 owner:
   name:           Janet Wesner
   avatar:         avatar.png
-  bio:            "Aesthete & Athlete"
+  bio:            ""
   email:          pickledpleasures@gmail.com
-  twitter:        
+  twitter:        lolatu2
   github:         pickledpleasures
   instagram:      
   dribbble:       
@@ -27,11 +27,10 @@ opengraph:
 # Links to include in top navigation
 # For external links add external: true
 links:
+  - title: Gallery
+    url: /gallery
   - title: About
     url: /about
-  - title: Github
-    url: https://github.com/pickledpleasures
-    external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/Chicago
