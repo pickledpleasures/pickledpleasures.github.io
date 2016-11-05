@@ -1,3 +1,11 @@
+Steps to serve jekyll on Mac:
+
+- `export PATH="/Users/username/bin:$PATH"`
+- `gem install jekyll` -- is this still needed?
+- `bundle exec jekyll serve`
+
+--- 
+
 # Balzac
 
 This is forked from [minimal mistakes](http://mademistakes.com). I needed some type of framework to build off as I have no experience with Jekyll. Michael set up an awesome dev environment for this which really helped speed up my progress. He also already wrote up an incredibly comprehensive readme.md so I basically copied all of it and replaced what was necessary. The design itself is my own and I cannot let you sell this or tweak the design for resale, unless I you [contact me](mailto:cole@coletownsend.com).
