@@ -2,11 +2,15 @@
 layout: page
 permalink: /gallery/index.html
 title: Gallery
-description: 
+description:
 tags: [gallery]
 image:
   feature:
 ---
+
+### Puerto Rico, 2017
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/98579460@N03/albums/72157679121917975" title="2017 Puerto Rico"><img src="https://c1.staticflickr.com/1/535/31918854790_b27b9eced9_z.jpg" width="640" height="427" alt="2017 Puerto Rico"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ### Banff and Jasper, 2016
 
