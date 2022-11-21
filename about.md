@@ -1,6 +1,6 @@
 ---
-layout: post
-permalink: /about/index.html
+layout: page
+permalink: /about/
 title: Life's Sweet & Sour
 description: 
 tags: [about, theme]

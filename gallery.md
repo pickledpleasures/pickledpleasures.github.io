@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /gallery/index.html
+permalink: /gallery/
 title: Gallery
 description:
 tags: [gallery]

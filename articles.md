@@ -1,6 +1,6 @@
 ---
 layout: home
-permalink: /articles/index.html
-title: "Articles"
+permalink: /articles/
+title: Articles
 tags: [blog, Q&A]
 ---

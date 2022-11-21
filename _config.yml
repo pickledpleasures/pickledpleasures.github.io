@@ -5,7 +5,7 @@ canonical: http://pickledpleasures.github.io
 
 # Owner/author information
 owner:
-  name:           Janet Wesner
+  name:           "Janet & Lindsay"
   avatar:         avatar.jpg
   bio:            ""
   email:          pickledpleasures@gmail.com
@@ -45,12 +45,12 @@ kramdown:
   toc_levels: 1..6
   enable_coderay: false
 
-  coderay:
-    coderay_line_numbers:
-    coderay_line_numbers_start: 1
-    coderay_tab_width: 4
-    coderay_bold_every: 10
-    coderay_css: class
+syntax_highlighter_opts:
+  line_numbers:
+  line_numbers_start: 1
+  tab_width: 4
+  bold_every: 10
+  css: class
 
 sass:
     style: :compressed

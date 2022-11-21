@@ -1,8 +1,16 @@
-Steps to serve jekyll on Mac:
+Steps to serve jekyll on Windows:
 
-- `export PATH="/Users/username/bin:$PATH"`
-- `gem install jekyll` -- is this still needed?
-- `bundle exec jekyll serve`
+- Follow the instructions to [install Ruby+Devkit](https://jekyllrb.com/docs/installation/windows/) 
+- Open a new command prompt and run `gem install jekyll bundler`
+- Check if jeykll was installed properly `jekyll -v`
+- To install gems, go into project folder and run `bundle install`
+- To serve, go into project folder and run `bundle exec jekyll serve`
+- To update gems, run `gem update && gem cleanup` 
+
+If changing gems in Gemfile, run the following:  
+
+- `bundle install` installs gems
+- `bundle update` updates Gemfile.lock
 
 --- 
 
